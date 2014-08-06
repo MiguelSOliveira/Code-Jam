@@ -47,20 +47,4 @@ if __name__ == '__main__':
                 solved = True
         result = "IMPOSSIBLE" if impossible else " ".join(str(i) for i in flavorsAvailable)
         file.write("Case #%d: %s\n" % (case, result))
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
+       
